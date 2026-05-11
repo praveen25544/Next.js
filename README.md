@@ -17,6 +17,8 @@ This is a minimal Next.js starter project.
 ## Files created
 
 - `package.json` - project metadata and scripts
+- `package-lock.json` - dependency lockfile
 - `pages/index.js` - homepage route
 - `pages/about.js` - sample route
+- `pages/todo.js` - mini todo project route
 - `pages/api/hello.js` - API route
