@@ -21,4 +21,6 @@ This is a minimal Next.js starter project.
 - `pages/index.js` - homepage route
 - `pages/about.js` - sample route
 - `pages/todo.js` - mini todo project route
+- `pages/counter.js` - counter example route
+- `pages/students/api.js` - students API route
 - `pages/api/hello.js` - API route

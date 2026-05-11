@@ -8,6 +8,7 @@ export default function Home() {
       <nav style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
         <Link href="/about">About page</Link>
         <Link href="/todo">Mini Todo Project</Link>
+        <Link href="/counter">Counter example</Link>
       </nav>
     </main>
   );
